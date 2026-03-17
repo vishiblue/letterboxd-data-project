@@ -18,4 +18,4 @@ venv/
 .env
 
 # Data sources, notes and idea
-.private/
+private/
