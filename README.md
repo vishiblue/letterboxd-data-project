@@ -51,14 +51,18 @@ The main tools used in this project include:
 
 ## Repository Structure
 
-letterboxd-data-project/
-├── data/
-│   ├── raw/
-│   └── processed/
-├── notebooks/
-├── src/
-├── README.md
-└── requirements.txt
+letterboxd-data-project/ 
+
+data/ 
+raw/ 
+processed/ 
+
+notebooks/
+
+src/ 
+
+README.md 
+requirements.txt
 
 ---
 
