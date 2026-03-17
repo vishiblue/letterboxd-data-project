@@ -16,3 +16,6 @@ venv/
 
 # Secrets
 .env
+
+# Data sources, notes and idea
+.private/
