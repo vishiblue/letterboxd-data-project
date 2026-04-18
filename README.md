@@ -68,4 +68,6 @@ requirements.txt
 
 ## Status
 
-Currently working on the EDA stage of the project. The current focus is understanding the structure of the dataset and identifying initial patterns in movie ratings and engagement.
+The exploratory data analysis is done. It is detailed in the 02_eda notebook. 
+
+Currently working on trying to reverse engineer the algorithm that Letterboxd uses to assign a rating to each movie based on user's interactions. 
