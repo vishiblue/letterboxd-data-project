@@ -71,3 +71,4 @@ requirements.txt
 The exploratory data analysis is done. It is detailed in the 02_eda notebook. 
 
 Currently working on trying to better understand the algorithm that Letterboxd uses to assign a rating to each movie based on user's interactions.
+
